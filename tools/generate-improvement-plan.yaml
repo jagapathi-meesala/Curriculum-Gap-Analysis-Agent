@@ -1,0 +1,8 @@
+name: generate-improvement-plan
+description: Turn flagged curriculum outcomes into human-reviewed follow-up actions.
+input_schema:
+  type: object
+  properties:
+    gap_report:
+      type: object
+  required: [gap_report]

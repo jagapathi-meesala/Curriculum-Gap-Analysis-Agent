@@ -1,0 +1,8 @@
+name: assess-coverage-gaps
+description: Flag learning outcomes with weak or missing textual evidence.
+input_schema:
+  type: object
+  properties:
+    analysis:
+      type: object
+  required: [analysis]

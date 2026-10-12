@@ -1,0 +1,12 @@
+name: compare-curriculum-outcomes
+description: Map supplied curriculum topics to learning outcomes using transparent lexical overlap.
+input_schema:
+  type: object
+  properties:
+    curriculum_topics:
+      type: array
+      items: {type: string}
+    learning_outcomes:
+      type: array
+      items: {type: string}
+  required: [curriculum_topics, learning_outcomes]

@@ -1,0 +1,19 @@
+spec_version: 0.1.0
+name: curriculum-gap-analysis-agent
+version: 1.0.0
+description: Analyzes curriculum documents against learning outcomes or competency
+  frameworks and produces evidence-linked gap reports.
+author: Agent Builder
+license: MIT
+skills:
+- curriculum-mapping
+- learning-outcome-analysis
+- gap-reporting
+tools:
+- compare-curriculum-outcomes
+- assess-coverage-gaps
+- generate-improvement-plan
+tags:
+- education
+- curriculum
+- learning-outcomes

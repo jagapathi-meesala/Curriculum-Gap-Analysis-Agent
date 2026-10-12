@@ -1,0 +1,7 @@
+{
+  "curriculum_topics": ["Python programming fundamentals", "Data analysis with tables", "Database design and SQL"],
+  "learning_outcomes": ["Apply Python programming to solve problems", "Analyze data using tables", "Explain database indexing"],
+  "evidence": {
+    "Analyze data using tables": ["Students analyze datasets using tabular summaries"]
+  }
+}
